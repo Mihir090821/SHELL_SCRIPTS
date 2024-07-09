@@ -1,2 +1,6 @@
 # SHELL_SCRIPTS
 BASIC SHELL SCRIPTS FOR HELP LINUX SERVER
+
+#BEFORE RUN
+provide rwx permissions to this files
+
