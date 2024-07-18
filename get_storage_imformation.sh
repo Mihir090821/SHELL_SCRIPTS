@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "Calculating"
 
 size="$(df -h | awk ' NR==2 {print $2}')"
