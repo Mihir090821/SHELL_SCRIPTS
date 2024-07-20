@@ -45,7 +45,7 @@ function perform_rotation {
     fi
 }
 
-# create_backup
+create_backup
 perform_rotation
 
 
